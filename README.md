@@ -33,7 +33,7 @@
 
 ```bash
 # 1. تحميل السكربت
-curl -O https://raw.githubusercontent.com/SudoSpace/sudospace.sh/main/sudospace.sh
+curl -O https://github.com/mosap71200/Sudospacescript.git
 
 # 2. جعله قابلاً للتشغيل
 chmod +x sudospace.sh
